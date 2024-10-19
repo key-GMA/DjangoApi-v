@@ -6,3 +6,4 @@ def home_views(request):
     return render(request, template_name= template_view)
 
 
+
